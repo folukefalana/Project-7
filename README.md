@@ -2,7 +2,7 @@
 
 ### Projec Overview
 
-'The "Call Centre Analysis" Power BI project aimed to provide comprehensive insights and visualizations related to the performance and operations of a call center. The project involved collecting, processing, and analyzing data from various sources within the call center environment to help stakeholders make informed decisions and optimize their operations. Key components and features included' 
+The ["Call Centre Analysis"](https://1drv.ms/u/c/53d9d0eaf14ddcbb/EQK5PHs4cvhOlQd9BMme2zoBb8ixBU7fI6MRLga3sJw_tA?e=673nES) Power BI project aimed to provide comprehensive insights and visualizations related to the performance and operations of a call center. The project involved collecting, processing, and analyzing data from various sources within the call center environment to help stakeholders make informed decisions and optimize their operations. Key components and features included' 
 
 ### Data Sources
 
