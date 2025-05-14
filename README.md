@@ -38,5 +38,6 @@ The ["Call Centre Analysis"](https://1drv.ms/u/c/53d9d0eaf14ddcbb/EQK5PHs4cvhOlQ
   customer satisfaction, and made data-driven decisions to enhance overall efficiency.
 
   
+![Call Center Data Visualization](https://github.com/user-attachments/assets/dc7400a7-3f09-4485-abdd-e25f61aeaba9)
 
 
